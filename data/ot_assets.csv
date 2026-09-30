@@ -1,0 +1,8 @@
+asset_name,asset_type,ip_address,zone,criticality
+PLC-01,PLC,10.10.20.10,OT,High
+PLC-02,PLC,10.10.20.11,OT,High
+PLC-03,PLC,10.10.20.12,OT,High
+SCADA-01,SCADA Server,10.10.10.5,Control,High
+SCADA-02,SCADA Server,10.10.10.6,Control,High
+ENG-PC-01,Engineering PC,10.10.1.10,Engineering,Medium
+ENG-PC-02,Engineering PC,10.10.1.11,Engineering,Medium
